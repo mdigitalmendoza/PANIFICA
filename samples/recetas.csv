@@ -1,0 +1,23 @@
+Producto,Ingrediente,Cantidad_Gramos
+Pan Frances,Harina de trigo,500
+Pan Frances,Agua,300
+Pan Frances,Levadura,10
+Pan Frances,Sal,10
+Pan Frances,Manteca,30
+Pan de Molde,Harina de trigo,450
+Pan de Molde,Leche,200
+Pan de Molde,Levadura,8
+Pan de Molde,Sal,8
+Pan de Molde,Manteca,40
+Pan de Molde,Azucar,25
+Facturas,Harina de trigo,400
+Facturas,Leche,150
+Facturas,Levadura,12
+Facturas,Sal,5
+Facturas,Manteca,80
+Facturas,Azucar,50
+Facturas,Huevos,60
+Baguette,Harina de trigo,550
+Baguette,Agua,320
+Baguette,Levadura,8
+Baguette,Sal,12

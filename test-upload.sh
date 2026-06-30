@@ -1,0 +1,1 @@
+cd /home/team/shared/panifica && curl -s --max-time 10 http://localhost:3000/api/upload -F "recetas=@samples/pedidos_ejemplo.xlsx" -F "pedidos=@samples/pedidos_ejemplo.xlsx" > /tmp/up-result.json 2>&1 && cat /tmp/up-result.json
